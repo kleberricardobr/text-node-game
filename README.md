@@ -12,9 +12,4 @@
 - As fases são todas chamadas de dentro da funcão controlaFases. Seu controle é por meio um loop simples dentro de um array.
 
   
-- Vídeos demonstrando o jogo:
-        --Primeiro vídeo
-            https://drive.google.com/file/d/1I6ViP-ZT2-OibCQg57ARBkcsuzJU51SM/view?usp=sharing
-
-        --Segundo vídeo
-            https://drive.google.com/file/d/1I4t7oOKurIxWkphS_Bcy0ckxfLqlgcl4/view?usp=sharing
+- Vídeo demonstrando o jogo: https://youtu.be/5GKQp6_LWn4
